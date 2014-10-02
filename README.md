@@ -1,4 +1,4 @@
 MobProto2014---Olin-App
 =======================
 
-Information about Olin College - Android app
+Information about the Olin College of Engineering - Android app
