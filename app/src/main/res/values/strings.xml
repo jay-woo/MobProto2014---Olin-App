@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OlinApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="bio1">An example of the workspace in one of the bio labs.</string>
+    <string name="bio2">Two students working on a lab together.</string>
+    <string name="bio3">Professor Jean Huang shows several students something under a microscope.</string>
+
+    <string name="desnat1">A few examples of hopper toys that students have made in past years.</string>
+    <string name="desnat2">A wooly mammoth transporter from several years ago.</string>
+    <string name="desnat3">A student holds up her hopper. She is sad because her hopper is too heavy to hop. :(</string>
+    <string name="desnat4">A pangolin transporter from 2013. It was able to curl up into a ball and roll.</string>
+
+    <string name="e4h1">A student talks to some of the community partners at E4H kick-off day.</string>
+    <string name="e4h2">Students show their community partners what they\'ve been working on.</string>
+    <string name="e4h3">Students present their work to an audience of other students and community partners at a design review.</string>
+    <string name="mechproto1">Students show off their mechanical hand at Expo.</string>
+    <string name="mechproto2">A team from 2014 present their mechanical hand at Expo.</string>
+    <string name="mechproto3">Students test their mechanical hand at the end of Mechanical Prototyping in their classroom.</string>
+
+    <string name="isim1">A pair of first-years show off their final project: a cat that comes to you when you meow at it.</string>
+    <string name="isim2">A team of first-years present their final project: a series of circuits that detects fear.</string>
+
+    <string name="matsci1">The final poster of a materials science final project.</string>
+    <string name="matsci2">The final poster of a materials science final project.</string>
+    <string name="matsci3">The final poster of a materials science final project.</string>
+
+    <string name="modsim1">The process first-years are taught in ModSim: real world -> model -> implementation -> results -> real world.</string>
+    <string name="modsim2">An example of a final project poster for ModSim.</string>
+    <string name="modsim3">A student working on creating a model for a population model involving sharks, rays, and scallops.</string>
+
+    <string name="poe1">Students work together to finish their project in a PoE lab.</string>
+    <string name="poe2">A group of students created a self-playing guitar.</string>
+    <string name="poe3">The Confectionary Cannon: A PoE project from 2013 that detected a face and shot a marshmallow at the mouth.</string>
+
+    <string name="robo1">A student holds up Jimmy, a humanoid robot.</string>
+    <string name="robo2">The robotic tuna that has been an Olin project for several years.</string>
+    <string name="robo3">The Olin Robotic Sailing team.</string>
+
+    <string name="scope1">A team poses for a picture with the company they\'re working for.</string>
+    <string name="scope2">A team presents their SCOPE project at the end of the year at SCOPE expo.</string>
+    <string name="scope3">A 2014–2015 team poses for a picture at the beginning of their project.</string>
+
+    <string name="shop1">The large machine shop.</string>
+    <string name="shop2">Students work on their projects in the mini wood shop.</string>
+    <string name="shop3">Some of the equipment that is available for students to use in the machine shops.</string>
+
+    <string name="uocd1">A team presents their final UOCD project at expo.</string>
+    <string name="uocd2">An example of a UOCD studio workspace (and lots of sticky notes).</string>
+    <string name="uocd3">A team works on their UOCD project in their studio.</string>
+
+    <string name="exit_button">Back</string>
+
+</resources>
